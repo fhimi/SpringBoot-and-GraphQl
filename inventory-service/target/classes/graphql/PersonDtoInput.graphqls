@@ -1,0 +1,4 @@
+input PersonDtoInput{
+    name: String
+    email: String
+}

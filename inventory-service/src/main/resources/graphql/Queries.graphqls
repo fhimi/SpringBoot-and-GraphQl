@@ -1,0 +1,3 @@
+type  Query{
+    getPersonById(id: Float) : PersonDto
+}
